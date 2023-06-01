@@ -7,10 +7,10 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Telegram Bot Token
-TOKEN = 'YOUR_BOT_TOKEN'
+TOKEN = '6101196560:AAE9Te6XfIfldcJcqdnh6Yb7SHPVi_z3hRc'
 
 # Private group ID to forward messages
-PRIVATE_GROUP_ID = -123456789  # Replace with the actual private group ID
+PRIVATE_GROUP_ID = -1001832126466  # Replace with the actual private group ID
 
 # Create bot instance
 bot = telebot.TeleBot(TOKEN)
