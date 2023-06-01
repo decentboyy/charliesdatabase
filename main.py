@@ -7,7 +7,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Telegram Bot Token
-TOKEN = '6101196560:AAE9Te6XfIfldcJcqdnh6Yb7SHPVi_z3hRc'
+TOKEN = '5261306325:AAFOSILKBJp2Uv5q-NwfVxHJAySgcI148Y8'
 
 # Private group ID to forward messages
 PRIVATE_GROUP_ID = -1001832126466  # Replace with the actual private group ID
